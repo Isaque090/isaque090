@@ -14,7 +14,6 @@
 
 ###
 
-<br clear="both">
 
 <p align="left">Meu nome é Isaque e Atualmente estou cursando técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio, tenho  interesse em programação</p>
 
