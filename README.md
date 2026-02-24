@@ -15,7 +15,13 @@
 ###
 
 
-<p align="left">Meu nome é Isaque e Atualmente estou cursando técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio, tenho  interesse em programação</p>
+<p align="left">
+Olá! Eu sou o **Isaque** e Atualmente estou cursando o **técnico em Desenvolvimento de 
+  Sistemas integrado ao Ensino Médio**    
+Gosto De aprender tecnologias novas e resolver problemas reais com programação.
+Atualmente focado em **web development** (front-end +  back-end) 
+
+</p>
 
 ###
 
