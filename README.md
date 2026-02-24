@@ -8,7 +8,7 @@
 
 ###
 
-<br clear="both">
+<br>
 
 <h3 align="left">Sobre mim</h3>
 
