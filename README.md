@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=isaque0908.isaque0908&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=isaque090.isaque090&"  />
 </div>
 
 ###
@@ -22,8 +22,6 @@ Atualmente focado em <b>web development</b> (front-end +  back-end).
 ###
 
 <h2 align="left">Tecnologias que mais utilizo:</h2>
-<br clear="both">
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -41,8 +39,6 @@ Atualmente focado em <b>web development</b> (front-end +  back-end).
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
-###
 
-<h6 align="left"></h6>
 
 ###
