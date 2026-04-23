@@ -52,20 +52,15 @@ Atualmente estou focado em:
 ---
 
 ## 📊 Estatísticas
-
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=isaque090&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaque090&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Top Languages"
-  />
-</div>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=isaque090&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide=issues,prs" />
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaque090&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="400"  src="https://streak-stats.demolab.com?user=isaque090&theme=tokyonight&hide_border=true" />
+
+</div
 ---
 
 ## 🎯 Objetivo
